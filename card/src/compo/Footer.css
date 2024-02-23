@@ -1,0 +1,9 @@
+div{
+    background-color: rgb(231, 226, 224);
+    padding: 23px;
+    bottom: 0;
+    width: 1300px;
+    height: 20px;
+    position: fixed;
+    text-align: center;
+}
